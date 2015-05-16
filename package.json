@@ -1,0 +1,37 @@
+{
+  "name": "react-treeview-draggable",
+  "version": "0.1.0",
+  "description": "react-treeview with draggable",
+  "main": "react-treeview-draggable.js",
+  "directories": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asvsfs/react-treeview-draggable.git"
+  },
+  "keywords": [
+    "facebook",
+    "react",
+    "treeview",
+    "draggable",
+    "tree",
+    "view",
+    "treenode",
+    "react-component"
+  ],
+  "author": "amir <anasvsfs@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asvsfs/react-treeview-draggable/issues"
+  },
+  "homepage": "https://github.com/asvsfs/react-treeview-draggable",
+  "peerDependencies": {
+    "react": ">=0.12.0"
+  },
+  "devDependencies": {
+    "react-treeview": "^0.3.12",
+    "jquery": "1.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
